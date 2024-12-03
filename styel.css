@@ -1,0 +1,61 @@
+.a{
+    width: 300px;
+    height: 300px;
+    border: 5px solid black;
+    border-radius: 10px;
+    color: brown;
+    padding: 10px;
+}
+.b{
+    width: 300px;
+height: 200px;
+border: 5px solid black;
+border-radius: 10px;
+color: brown;
+padding: 20px;
+box-sizing: border-box;
+}
+.c{
+    width: 300px;
+height: 200px;
+border: 5px solid black;
+border-radius: 10px;
+color: brown;
+padding: 20px;
+margin: 20px;
+display: inline-block;
+}
+.d{
+    width: 300px;
+height: 200px;
+border: 5px solid black;
+border-radius: 10px;
+color: brown;
+padding: 20px;
+margin: 20px;
+display: inline-block;
+}
+.parent{
+    width: 100%px;
+    height: 500px;
+    border: 2px solid black;
+    margin-top:20px ;
+    margin-bottom:25px ;
+    display: flex;
+    flex-direction: column;
+}
+.child{
+    width: 300px;
+    height: 200px;
+    border: 2px solid brown;
+    text-align: center;
+    margin: auto;
+}
+.e{
+border: 2px solid blue;
+margin-top: 30px;
+}
+.f{
+    border: 2px solid red;
+    margin-bottom: 30px;
+}
